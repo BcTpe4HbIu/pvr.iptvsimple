@@ -25,7 +25,7 @@
 #include "client.h"
 #include "kodi/xbmc_pvr_dll.h"
 #include "PVRIptvData.h"
-#include "kodi/util/util.h"
+#include "platform/util/util.h"
 
 using namespace std;
 using namespace ADDON;
